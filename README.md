@@ -4,11 +4,11 @@ This project is a recipe application developed using Kotlin. The app allows user
 
 ## Screenshots
 
-### Main Screen
+### Intro Screen
 ![Main Screen](screenshots/screen_intro.png)
 
 ### Recipe List Screen
-![Recipe List Screen](screenshots/recipe_list_screen.png)
+![Recipe List Screen](screenshots/screen_main.png)
 
 ### Add Recipe Screen
 ![Add Recipe Screen](screenshots/add_recipe_screen.png)
