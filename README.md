@@ -4,8 +4,9 @@ This project is a recipe application developed using Kotlin. The app allows user
 
 ## Screenshots
 
-### Intro Screen
-![screen_intro (1)](https://github.com/user-attachments/assets/b194e5a8-af5c-4664-9585-1b64a4b503d6)
+## Intro Video
+
+[here](https://drive.google.com/drive/u/0/folders/1sXpwIg6tVq4socL8xZS5f2qIJmyouZry).
 
 ### Recipe List Screen
 ![Recipe List Screen](screenshots/screen_main.png)
@@ -21,6 +22,4 @@ This project is a recipe application developed using Kotlin. The app allows user
 - View recipes
 - Add new recipes
 - Update existing recipes
-
-## Installation
 
