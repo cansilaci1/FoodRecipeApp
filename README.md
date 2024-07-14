@@ -6,7 +6,10 @@ This project is a recipe application developed using Kotlin. The app allows user
 
 ## Intro Video
 
-[here](https://drive.google.com/drive/u/0/folders/1sXpwIg6tVq4socL8xZS5f2qIJmyouZry).
+[click here to see how's the intro screen seems](https://drive.google.com/drive/u/0/folders/1sXpwIg6tVq4socL8xZS5f2qIJmyouZry).
+
+### Intro Screen
+![Intro Screen](screenshots/screen_intro(1).png)
 
 ### Recipe List Screen
 ![Recipe List Screen](screenshots/screen_main.png)
