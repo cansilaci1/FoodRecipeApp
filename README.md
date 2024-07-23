@@ -1,6 +1,13 @@
 # Food Recipe App
 
 This project is a recipe application developed using Kotlin. The app allows users to view and add various recipes.
+-Kotlin
+-Navigation Components
+-Retrofit
+-Dagger - Hilt
+-Lottie Animations
+-ViewBinding
+etc.
 
 ## Screenshots
 
